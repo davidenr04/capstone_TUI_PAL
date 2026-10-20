@@ -1,0 +1,23 @@
+/obj/
+/bin/
+/alire/
+/config/
+
+
+# Alire build output
+.alire/
+
+# Ada build artifacts
+*.o
+*.ali
+*.bexch
+*.lexch
+
+# Editor files
+.DS_Store
+.vscode/
+
+# Secrets
+.env
+.env.*
+!.env.example

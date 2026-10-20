@@ -1,0 +1,7 @@
+--------------------------------------
+-- Defines the main operations that an 
+-- application developer uses to start 
+-- and stop TUI PAL. It acts as the 
+-- framework's entry point, so developers
+-- don't need to understand every internal package
+--------------------------------------
